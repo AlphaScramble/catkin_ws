@@ -1,0 +1,2 @@
+ilk_paket:opencv_uygulama
+-DCATKIN_DEVEL_PREFIX=/home/omer/warehouse-drone/computer_vision/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/omer/warehouse-drone/computer_vision/catkin_ws/install -G Unix Makefiles
